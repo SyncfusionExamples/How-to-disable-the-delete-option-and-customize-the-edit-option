@@ -1,0 +1,1 @@
+# How-to-disable-the-delete-option-and-customize-the-edit-option
