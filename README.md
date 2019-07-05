@@ -1,1 +1,3 @@
-# How-to-disable-the-delete-option-and-customize-the-edit-option
+# EJ2 JavaScript
+
+> This sample allows the user to perform only edit action in Scheduler.
